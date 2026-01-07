@@ -31,9 +31,6 @@ I'm a 3rd-year **Computer Engineering Student** passionate about mobile technolo
 
 <div align="center">
   <a href="https://github.com/AbdullahYuzbasi">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdullahYuzbasi&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/AbdullahYuzbasi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahYuzbasi&layout=compact&theme=radical" height="180" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdullahYuzbasi&show_icons=true&theme=radical" height="180" alt="GitHub Profile" />
   </a>
 </div>
