@@ -4,8 +4,7 @@ I'm a 3rd-year **Computer Engineering Student** passionate about mobile technolo
 
 - 🔭 I’m currently working on **Focus & Compete (Mobile Productivity App)**
 - 🎓 Studying at **Bandırma Onyedi Eylül University**
-- 💻 My background: **C#, SQL, C++, Java & 8051 Assembly**
-- 🌱 I’m currently deepening my knowledge in **Data Structures & Algorithms**
+- 💻 My background: **C#, SQL, C++, Java 
 
 ---
 
@@ -23,18 +22,6 @@ I'm a 3rd-year **Computer Engineering Student** passionate about mobile technolo
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Assembly-A9A9A9?style=for-the-badge&logo=intel&logoColor=white" alt="Assembly" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
 </div>
 
