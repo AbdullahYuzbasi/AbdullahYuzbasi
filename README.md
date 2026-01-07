@@ -28,5 +28,12 @@ I'm a 3rd-year **Computer Engineering Student** passionate about mobile technolo
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahYuzbasi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahYuzbasi&layout=compact&theme=radical)
+
+<div align="center">
+  <a href="https://github.com/AbdullahYuzbasi">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdullahYuzbasi&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/AbdullahYuzbasi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahYuzbasi&layout=compact&theme=radical" height="180" alt="Top Langs" />
+  </a>
+</div>
