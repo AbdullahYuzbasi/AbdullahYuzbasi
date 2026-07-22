@@ -1,36 +1,66 @@
-### Hi there! I'm Abdullah Yüzbaşı 👋
+# Hi there! I'm Abdullah Yüzbaşı 👋
 
-I'm a 3rd-year **Computer Engineering Student** passionate about mobile technologies and software architecture. Currently, I'm focusing on creating cross-platform experiences with **Flutter**.
+I am a 3rd-year Computer Engineering student at Bandırma Onyedi Eylül University. I am developing myself in the fields of data science and machine learning.
 
-- 🔭 I’m currently working on **Focus & Compete (Mobile Productivity App)**
-- 🎓 Studying at **Bandırma Onyedi Eylül University**
-- 💻 My background: **C#, SQL, C++, Java 
+I have a product-oriented development mindset and aim to improve my skills throughout the entire software development lifecycle. I am experienced in developing cross-platform applications and designing database schemas with Flutter.
 
----
+Currently, I am focusing on expanding my knowledge in the fields of Data Science and Machine Learning.
 
-### 🛠 Languages and Tools
-
-<div align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  </a>
-  <a href="https://isocpp.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-</div>
+- 🎓 Studying **Computer Engineering** at Bandırma Onyedi Eylül University
+- 📊 **GPA: 3.66**
+- 🤖 Focusing on **Data Science and Machine Learning**
+- 📱 Experienced in **cross-platform application development with Flutter**
+- 🗄️ Interested in **database design and software solutions**
+- 🚀 Always open to learning and improving my skills
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technical Skills
 
-<div align="center">
+### 📊 Data Science & AI
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly%20(8051)-555555?style=for-the-badge&logoColor=white" />
+</p>
+
+### 📱 Application & Web Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🔧 Technologies & Tools
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-555555?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
   <a href="https://github.com/AbdullahYuzbasi">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdullahYuzbasi&show_icons=true&theme=radical" height="180" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
