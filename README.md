@@ -1,6 +1,6 @@
 # Hi there! I'm Abdullah Yüzbaşı 👋
 
-I am a 3rd-year Computer Engineering student at Bandırma Onyedi Eylül University. I am developing myself in the fields of data science and machine learning.
+I am a 4rd-year Computer Engineering student at Bandırma Onyedi Eylül University. I am developing myself in the fields of data science and machine learning.
 
 I have a product-oriented development mindset and aim to improve my skills throughout the entire software development lifecycle. I am experienced in developing cross-platform applications and designing database schemas with Flutter.
 
